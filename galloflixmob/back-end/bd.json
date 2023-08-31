@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "id":1,
+            "nome":"Picaroto",
+            "email":"pica@roto.com",
+            "senha":"senha"
+        },
+
+        {
+            "id":2,
+            "nome":"sicaflex",
+            "email":"sica@flex.com",
+            "senha":"senha2"
+        }
+        
+    ],
+
+    "produtos":[
+        {
+            "id":1,
+            "nome":"café",
+            "decricao":"café extra forte",
+            "validade":"2024-12-21",
+            "preco":20.00
+        }
+    ]
+    
+}
